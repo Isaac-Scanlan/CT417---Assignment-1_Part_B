@@ -1,2 +1,2 @@
-# CT417---Assignment-1_Partt_B
+# CT417---Assignment-1_Part_B
 Part B for Assignment 1
